@@ -243,7 +243,7 @@ drwx------  2 root  root  6 Feb  3 09:41 drafts
 **Dariusz Piasecki**  
 📧 Email: d.piasecki@piaseckiphotos.com  
 🔗 LinkedIn: [linkedin.com/in/piaseckiphotos](https://linkedin.com/in/piaseckiphotos)  
-🐙 GitHub: [github.com/DariuszPiasecki](https://github.com/DariuszPiasecki)
+🐙 GitHub: [github.com/Dariusz-Piasecki](https://github.com/Dariusz-Piasecki)
 
 ---
 
