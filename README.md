@@ -1,6 +1,6 @@
 # Linux File Permissions
 
-**Author:** Dariusz Piasecki  
+**Author:** Dariusz Piasecki
 **Project Type:** File System Security – Permission Management  
 **Environment:** Linux (Terminal)
 
